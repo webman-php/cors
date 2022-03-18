@@ -1,0 +1,12 @@
+{
+  "name": "webman/cors",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Webman\\Cors\\": "src"
+    }
+  }
+}
